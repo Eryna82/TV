@@ -1,7 +1,16 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.open-epg.com/files/philippines2.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
+https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml
+https://www.open-epg.com/files/philippines2.xml
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz
+https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz
 https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
+refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png",Scream   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
